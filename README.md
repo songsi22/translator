@@ -11,12 +11,12 @@ https://developers.google.com/docs/api/how-tos/overview
 In my case, some text translate English to Korean, and then added on same document file.
 The samples are as follows.
 
-1
-00:00:00,320 --> 00:00:01,590
-Hello everyone this is kiuk
-google: 안녕하세요 여러분 kiuk입니다
-papago: 안녕하세요 여러분 키욱입니다.
-kakao: 안녕하세요, 여러분 여기는 기욱입니다
+1</br>
+00:00:00,320 --> 00:00:01,590</br>
+Hello everyone this is kiuk</br>
+google: 안녕하세요 여러분 kiuk입니다</br>
+papago: 안녕하세요 여러분 키욱입니다.</br>
+kakao: 안녕하세요, 여러분 여기는 기욱입니다</br>
 
 In multi-translation site, there are so many translators.
 But I think  English to Korean only 3 kinds of translators is good, and especially papago more good.
