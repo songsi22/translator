@@ -1,4 +1,4 @@
-# translator
+# translator (selenium automation)
 Translate English from doc on Google Drive
 It is use 3 kinds of translators but not use API for each translators.
 Using the selenium module to translate, so it's very slow.
